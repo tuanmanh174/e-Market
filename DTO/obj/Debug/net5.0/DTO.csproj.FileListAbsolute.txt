@@ -1,0 +1,16 @@
+D:\Project\e-Market\e-Market\DTO\bin\Debug\net5.0\DTO.exe
+D:\Project\e-Market\e-Market\DTO\bin\Debug\net5.0\DTO.deps.json
+D:\Project\e-Market\e-Market\DTO\bin\Debug\net5.0\DTO.runtimeconfig.json
+D:\Project\e-Market\e-Market\DTO\bin\Debug\net5.0\DTO.runtimeconfig.dev.json
+D:\Project\e-Market\e-Market\DTO\bin\Debug\net5.0\DTO.dll
+D:\Project\e-Market\e-Market\DTO\bin\Debug\net5.0\ref\DTO.dll
+D:\Project\e-Market\e-Market\DTO\bin\Debug\net5.0\DTO.pdb
+D:\Project\e-Market\e-Market\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+D:\Project\e-Market\e-Market\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\e-Market\e-Market\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+D:\Project\e-Market\e-Market\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+D:\Project\e-Market\e-Market\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+D:\Project\e-Market\e-Market\DTO\obj\Debug\net5.0\DTO.dll
+D:\Project\e-Market\e-Market\DTO\obj\Debug\net5.0\ref\DTO.dll
+D:\Project\e-Market\e-Market\DTO\obj\Debug\net5.0\DTO.pdb
+D:\Project\e-Market\e-Market\DTO\obj\Debug\net5.0\DTO.genruntimeconfig.cache
